@@ -17,7 +17,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link className="navbar-item" to="/about">
-                      About
+                      Core Values
                     </Link>
                   </li>
                   <li>

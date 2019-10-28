@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: First Lego League City Shaper Helpful Links
-date: 2019-10-28T02:54:57.085Z
+date: 2019-09-28T02:54:57.085Z
 description: Helpful links for the 2019 season
 featuredpost: true
 featuredimage: /img/city-shaper.jpg

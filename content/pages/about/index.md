@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Core values
+title: FIRST Lego League Core values
 ---
 ### Discovery
 

@@ -12,4 +12,5 @@ tags:
 ---
 ![City Shaper theme image](/img/city-shaper.jpg "City Shaper Social Image from FLL resources page")
 
-[City Shaper Rules and Guides](https://www.firstinspires.org/resource-library/fll/challenge-and-resources) has links to major documents for the season.  This includes the Robot Game Guide and rule updates.  Information on the Challenge is also available at this link.
+## [City Shaper Rules and Guides](https://www.firstinspires.org/resource-library/fll/challenge-and-resources)
+This page has links to major documents for the season.  This includes the Robot Game Guide and rule updates.  Information on the Challenge is also available at this link.
